@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* shopregistration */
+
+.shop{
+    text-shadow: 7px 7px 10px rgba(4, 98, 192, 0.644);
+}
+.shopform{
+    /* border: 1px solid #456; */
+    /* background: linear-gradient(rgba(104, 77, 98, 0.596) ,rgba(248, 246, 103, 0.747)); */
+    box-shadow: 0px 0px 15px rgba(192, 21, 35, 0.493);
+}
+/* home */
+.rs{
+    font-size: xx-large;
+    /* text-shadow: -2px 0px 5px rgba(39, 28, 26, 0.808); */
+}
+/* .slide-in {
+    animation: slideIn 2s ease-out forwards;
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  } */
+
+  /* baclground image of homepage */
+  .bghome{
+    height: 100vh;
+    background:linear-gradient(rgba(78, 87, 98, 0.336) , rgba(78,87,98,.98)) ,url(https://ecommercephotographyindia.com/info/wp-content/uploads/2022/01/Photography-Equipment-.jpg);
+  }
+
+  /* loginform page */
+  .login{
+    /* height: ; */
+    /* border: 2px solid #f00; */
+    box-shadow: 0px 0px 20px rgba(255, 0, 0, 0.616);
+  }
+
+
+  /* shop home page */
+  .shop-home{
+    background: linear-gradient(rgba(46, 40, 44, 0.541),rgba(14, 14, 65, 0.623),rgba(85, 2, 60, 0.623));
+    height: 100vh;
+  }
+
+
+
+  /* admin view complaints */
+  .admin-complaint-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .loading {
+    text-align: center;
+    color: #555;
+  }
+  
+  .error-message {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+  }
+  
+  .no-complaints {
+    text-align: center;
+    color: #888;
+  }
+  
+  .complaint-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .complaint-list table th,
+  .complaint-list table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .complaint-list table th {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .complaint-list table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .complaint-list table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .complaint-list table td em {
+    color: #999;
+    font-style: italic;
+  }
+  
+
+
+  
